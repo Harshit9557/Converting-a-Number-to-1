@@ -32,16 +32,12 @@ int main()
                     c++;
                 }
                 else
-                {
                     n=1;
-                }
             }
             printf("\t\t%d\n",c);
         }
         else
-        {
             printf("You have entered invalid value of n");
-        }
     }
     return 0;
 }
